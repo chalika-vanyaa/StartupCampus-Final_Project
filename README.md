@@ -1,2 +1,2 @@
-# Startup Campus - DSAI Track Final Project
-Developing a Market Basket Analysis-based recommendation system to boost Private Label Brand sales in supermarkets.
+# Startup Campus Batch 6 - DSAI Track Capstone Project
+Designed and implemented a recommendation system to boost private-label brand sales using Market Basket Analysis, the Apriori algorithm, Term Frequency-Inverse Document Frequency (TF-IDF), and cosine similarity.
